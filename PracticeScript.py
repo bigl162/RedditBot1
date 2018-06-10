@@ -17,7 +17,4 @@ else:
        posts_replied_to = posts_replied_to.split("\n")
        posts_replied_to = list(filter(None, posts_replied_to))
 
-#Add Testline
-
-print('Fuck off')
-#banana
+print('New Stuff')
